@@ -4,8 +4,15 @@ title: etapas
 
 # Etapas para el proyecto
 
+- Persona A: backend (líder técnico)
+- Persona B: Frontend 1 (UI/UX + pantallas)
+- Persona C: Frontend 2 (lógica)
+
 ## Etapa 1: EN PROCESO
 
+| A | B | C |
+|---|---|---|
+| Arquitectura general + BD + lógica + documentación | Wireframes + navegación + UX | diagramas casos de uso/flujo + revisiones con B |
 
 | Día | A | B | C |
 |---|---|---|---|
