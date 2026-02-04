@@ -1,4 +1,4 @@
 # Tirando Facha
 
-- [Inicia aquí](README)
-- [Descripción Tirando Facha](descTF)
+- [Inicia aquí](README.md)
+- [Descripción Tirando Facha](descTF.md)
