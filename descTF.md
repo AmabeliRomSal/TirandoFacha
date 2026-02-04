@@ -73,3 +73,8 @@ Primero se debe dar la opción de seleccionar **estándar 1 o 2**.
 - > RQNF: No se puede utilizar seleccionables y símbolos al mismo tiempo, >RQNF2: debe haber un **switch** que haga al usuario elegir entre seleccionables o símbolos.
 
 Por último, la manera textual se utiliza tomando en cuenta que **la prenda tiene una etiqueta**.
+
+#### Formulario
+
+Éste se utiliza como un último recurso, donde el usuario aproxima seleccionando las opciones en ésta lo que haría la etiqueta.
+
