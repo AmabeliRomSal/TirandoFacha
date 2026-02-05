@@ -8,6 +8,6 @@ title: README
 Aplicación para el manejo correcto de ropa.
 
 
-> [Etapas](etapas)
+> [etapas](etapas)
 > 
 > Etapa 1 (de 8): Planeación y diseño
