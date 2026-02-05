@@ -8,6 +8,8 @@ title: etapas
 - Persona B: Frontend 1 (UI/UX + pantallas)
 - Persona C: Frontend 2 (lógica)
 
+---
+
 ## Etapa 1: EN PROCESO
 
 Planeación/Diseño
@@ -31,6 +33,7 @@ Días 1-10
 | 9 | Inicio de documentación | Prototipo visual en papel | Feedback |
 | 10 | Revisión general | lo mismo | lo mismo |
 
+---
 
 ## Etapa 2
 
@@ -54,6 +57,8 @@ Días 11-20
 | 18 | Optimizar código | Animaciones básicas | Estados de carga de las dependencias, BD, y app básica |
 | 19 | **Testing** | lo mismo | lo mismo |
 | 20 | **Versión estable** | lo mismo | lo mismo |
+
+---
 
 ## Etapa 3
 
@@ -83,6 +88,8 @@ Días 21-35
 | 34 | **Revisión completa** | lo mismo | lo mismo |
 | 35 | Armario completado | lo mismo | lo mismo |
 
+---
+
 ## Etapa 4
 
 Formulario
@@ -108,6 +115,8 @@ Días 36-55
 
 > Los días 46-55 se solapan por si aún no se completa el módulo.
 
+---
+
 ## Etapa 5
 
 Inicio + estadísticas + mascota
@@ -130,6 +139,8 @@ Días 46-65
 | 53 | **Correcciones** | lo mismo | lo mismo |
 | 54-65 | Optimización- Inicio completado | lo mismo | lo mismo |
 
+---
+
 ## Etapa 6
 
 Lavadora
@@ -151,6 +162,8 @@ Días 66-85
 | 72 | **Correcciones** | lo mismo | lo mismo |
 | 73-85 | Optimización- Lavadora completada | lo mismo | lo mismo |
 
+---
+
 ## Etapa 7
 
 Clima
@@ -167,6 +180,8 @@ Días 86-95
 | 87 | Modelo de vida útil | Visualización | Desplegar predicción |
 | 88 | Ajustes del modelo | Mensajes al usuario (notif.) | Validaciones |
 | 89-95 | **Ajustes finales** | lo mismo | lo mismo |
+
+---
 
 ## Etapa 8
 
